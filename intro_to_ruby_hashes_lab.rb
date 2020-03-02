@@ -1,20 +1,25 @@
 def new_hash 
   new_hash={}
+  
   # Create a method called new_hash that creates and returns a new, empty hash.
 end
 
 def my_hash
   my_hash ={ :hash_id => 1}
-  # return a valid hash with any key/value pair of your choice
+  
+  # Return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
   my_pioneer = {:name => "Grace Hopper"}
-  #
+  
+  # Create a method called pioneer that returns a hash. This hash should have a key that is a symbol :name and whose value is a string, 'Grace Hopper'.
 end
 
 def id_generator
   new_id = {:id => 2}
+  
+  
 end
 
 def my_hash_creator(key, value)
