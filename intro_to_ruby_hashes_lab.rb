@@ -31,10 +31,12 @@ end
 def read_from_hash(hash, key)
   hash [key]
   
-  #
+  # Create a method call read_from_hash that takes in two parameters. The first parameter is a hash, the second is a key. Used together, they will either produce a value on that hash corresponding to the key, or nil by default. Use these two parameters in conjunction to do just that.
 end
 
 def update_counting_hash(hash, key)
+  
+  
   # given a hash an a key as parameters, return an updated hash
   # if the provided key is not present in the hash, add it and assign it to the value of 1
   # if the provided key is present, increment its value by 1
