@@ -25,7 +25,7 @@ end
 def my_hash_creator(key, value)
   hash = {key => value}
   
-  # 
+  # Create a method called my_hash_creator that takes in two parameters. In this method, create and return a hash with one key/value pair, using the first parameter as the key, and the second parameter as the value.
 end
 
 def read_from_hash(hash, key)
