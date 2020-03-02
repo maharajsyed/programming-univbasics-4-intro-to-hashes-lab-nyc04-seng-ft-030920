@@ -1,6 +1,6 @@
 def new_hash 
   new_hash={}
-  
+  # Create a method called new_hash that creates and returns a new, empty hash.
 end
 
 def my_hash
@@ -10,6 +10,7 @@ end
 
 def pioneer
   my_pioneer = {:name => "Grace Hopper"}
+  #
 end
 
 def id_generator
