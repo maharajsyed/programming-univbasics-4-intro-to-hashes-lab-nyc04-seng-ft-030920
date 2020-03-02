@@ -19,11 +19,13 @@ end
 def id_generator
   new_id = {:id => 2}
   
-  
+  # Create a method called id_generator that creates and returns a hash with one key/value pair. The key should be a symbol, :id. For the value, provide a positive integer of your choice.
 end
 
 def my_hash_creator(key, value)
   hash = {key => value}
+  
+  # 
 end
 
 def read_from_hash(hash, key)
